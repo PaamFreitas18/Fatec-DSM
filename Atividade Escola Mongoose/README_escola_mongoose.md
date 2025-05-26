@@ -2,12 +2,28 @@
 
 **Disciplina:** Técnicas de Programação II  
 **Professor:** Henrique Louro  
-**Aluno:** Pamela Freitas
+**Aluno:** [Seu Nome Aqui]
 
 ## 🔗 Repositório da Atividade
 Este é o repositório público da atividade prática com Express, TypeScript e Mongoose:  
 📁 [https://github.com/PaamFreitas18](https://github.com/PaamFreitas18)
 
+---
+
+## 🚀 Instalação
+
+```bash
+npm install
+npm run dev
+```
+
+Crie um arquivo `.env`:
+
+```
+PORT=3001
+```
+
+---
 
 ## 🧪 Testes com `curl` e Respostas
 
